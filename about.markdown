@@ -9,5 +9,3 @@ permalink: /about/
 [Connpass](http://fukuirb.connpass.com)
 
 [Slack](https://join.slack.com/t/fukuirb/shared_invite/zt-1seay7d9e-uLGoRL4EKhtb94Bm3hlNyA)
-
-[jekyll-organization]: https://github.com/jekyll
